@@ -1,5 +1,7 @@
 <var data-essay data-layout="horizontal"></var>
  
+## About the Plant Humanities Workbench
+
 ## About Visual Essays
 
 The `visual essays` service creates an interactive web page merging text content with external data, including:
